@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testing-framer-motion/static/css/main.ac2cb0d2.css",
+    "main.js": "/testing-framer-motion/static/js/main.02202180.js",
+    "index.html": "/testing-framer-motion/index.html",
+    "main.ac2cb0d2.css.map": "/testing-framer-motion/static/css/main.ac2cb0d2.css.map",
+    "main.02202180.js.map": "/testing-framer-motion/static/js/main.02202180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac2cb0d2.css",
+    "static/js/main.02202180.js"
+  ]
+}
